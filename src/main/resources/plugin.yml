@@ -1,0 +1,8 @@
+name: RentableRegions
+version: '${project.version}'
+main: dev.mrshawn.rentableregions.RentableRegions
+api-version: 1.18
+prefix: RentableRegions
+authors: [ MrShawn ]
+description: Give players the ability to temporarily rent regions on your server
+website: https://mrshawn.dev/
